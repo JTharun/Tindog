@@ -1,2 +1,1 @@
-# Tindog
-A basic model of the tindog website
+TinDog Starting Files
